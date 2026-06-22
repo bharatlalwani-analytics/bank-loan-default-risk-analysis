@@ -93,7 +93,8 @@ Created meaningful features to improve model performance:
 
 A Power BI dashboard was built to visualize risk patterns and business insights.
 
-<img width="1280" height="721" alt="dashboard" src="https://github.com/user-attachments/assets/d0c80f98-efeb-443e-af47-ec9ae1426a75" />
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/9587d231-8ef9-407f-9a13-f59b35824024" />
+
 
 ---
 
